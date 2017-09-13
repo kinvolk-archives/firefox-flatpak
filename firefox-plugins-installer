@@ -46,9 +46,9 @@ JAVA_SHA256SUM=355e5cdb066d4cada1f9f16f358b6fa6280ff5caf7470cf0d5cdd43083408d35
 JAVA_LINK=${PLUGINS_DIR}/libnpjp2.so
 
 # Data needed for the Flash plugin, from Adobe
-FLASH_FALLBACK_VERSION="26.0.0.151"
+FLASH_FALLBACK_VERSION="27.0.0.130"
 FLASH_FALLBACK_URL="https://fpdownload.adobe.com/pub/flashplayer/pdc/${FLASH_FALLBACK_VERSION}/flash_player_npapi_linux.$(arch).tar.gz"
-FLASH_FALLBACK_SHA256SUM="147d90fa60b8c3831320998ca14c96278c4b6d0e9371617809fd1648b573dcfb"
+FLASH_FALLBACK_SHA256SUM="ecbd2254a68c7b0bb7675babe58cbe1b5f317bd2556ba49776eb3a6cd9526d62"
 
 FLASH_LKGV_FILE_URL="https://s3-us-west-2.amazonaws.com/abacadaba/flashplugin-$(arch).lkgv"
 FLASH_LKGV_VERSION=
